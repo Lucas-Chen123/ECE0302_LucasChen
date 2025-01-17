@@ -1,0 +1,6 @@
+/mnt/c/users/lucas/Desktop/ECE0302_LucasChen/ECE0302_LucasChen/build/CMakeFiles/test-add.dir
+/mnt/c/users/lucas/Desktop/ECE0302_LucasChen/ECE0302_LucasChen/build/CMakeFiles/submission.dir
+/mnt/c/users/lucas/Desktop/ECE0302_LucasChen/ECE0302_LucasChen/build/CMakeFiles/starter_download.dir
+/mnt/c/users/lucas/Desktop/ECE0302_LucasChen/ECE0302_LucasChen/build/CMakeFiles/test.dir
+/mnt/c/users/lucas/Desktop/ECE0302_LucasChen/ECE0302_LucasChen/build/CMakeFiles/edit_cache.dir
+/mnt/c/users/lucas/Desktop/ECE0302_LucasChen/ECE0302_LucasChen/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/mnt/c/users/lucas/Desktop/ECE0302_LucasChen/ECE0302_LucasChen/build",
+  "command": "/usr/bin/g++   -g -std=gnu++11 -o CMakeFiles/test-add.dir/test_add.cpp.o -c /mnt/c/users/lucas/Desktop/ECE0302_LucasChen/ECE0302_LucasChen/pp0/test_add.cpp",
+  "file": "/mnt/c/users/lucas/Desktop/ECE0302_LucasChen/ECE0302_LucasChen/pp0/test_add.cpp",
+  "output": "CMakeFiles/test-add.dir/test_add.cpp.o"
+}
+]
