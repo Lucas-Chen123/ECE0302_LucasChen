@@ -3,7 +3,7 @@
 
 #include "add.hpp"
 
-//update for checkoff
+//checkoff
 
 // force template expansion
 template class Add<int>;
